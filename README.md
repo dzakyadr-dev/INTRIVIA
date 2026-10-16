@@ -10,3 +10,6 @@ Intrivia sangat menyenangkan dan insightful
 
 ## Kesan Pesan Cluster 9 Sejauh Ini 
 Teman-teman baru di cluster 9 sangat ramah dan asik. Kakak fasil nya juga sangat ramah, dan selalu memberikan informasi yang jelas terkait rangkaian intrivia yang akan datang ataupun tugas-tugas yang diberikan.
+
+## Harapan Kuliah 
+Saya harap saya bisa mendalami programming selama berkuliah.
